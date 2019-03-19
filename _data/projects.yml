@@ -1,8 +1,5 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: An efficient numerical method for simulating free-surface and multiphase flows
   quote: >
-    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    In this project, Mr. Nabian simulated numerous real-world free-surface problems, such as dam-breaks, landslides, and other phenomena that are often induced by earthquakes. Based on these simulations, he devised an algorithm for simulating multiphase free-surface flows, which serves as a tool for simulating free-surface flow phenomena occurring in both industry and the natural world. He applied his algorithm, which he called the multiphase MPS method, to a number of real-world phenomena in order to verify its accuracy and illustrate some of its many applications. Further, Mr. Nabian built upon his original algorithm in order to develop a multi-resolution MPS method, which allows for the simulation of different types of fluid flow in different resolutions. He then confirmed that, compared to standard methods, Mr. Nabian’s methods reduce the computation cost of free-surface flow simulation. As such, his work on this project has addressed one of the most crucial problems in the field with regard to computational fluid dynamics.
