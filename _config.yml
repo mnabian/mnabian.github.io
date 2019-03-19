@@ -7,7 +7,7 @@ name: Mohammad Amin Nabian
 title: PhD Candidate, University of Illinois at Urbana Champaign
 email: mnabia2@illinois.edu
 phone: 202-304-6701
-website: Your website (eg. https://google.com)(optional)
+website: mnabian.github.io
 
 # Social links
 twitter_username: jekyllrb
@@ -20,13 +20,13 @@ linkedin_username: Mohammad Amin Nabian
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+I am a PhD Candidate in Sustainable and Resilient Infrastructure Systems program in the Department of Civil and Environmental Engineering at The University of Illinois at Urbana-Champaign. My research interests include <mark>infrastructure engineering, machine learning and deep learning, uncertainty quantification, computational statistics, and computational fluid dynamics</mark>. Primarily, I am interested in developing metamodels based on deep neural networks to accelerate stochastic computations in engineering systems, with applications in reliability analysis, design optimization, Bayesian inference, and computational fluid dynamics. Currently I am a member of the Uncertainty Quantification group [links](http://publish.illinois.edu/meidani/).
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+ #You can even add paragraphs by using empty lines like this and add anything else #markdown supports such as
+#    - Lists
+#    - Tables
+#    - Links
+#    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
