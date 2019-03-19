@@ -31,7 +31,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Nabian, M.A., and Meidani, H., Deep Learning for Accelerated Seismic Reliability Analysis of TransportationNetworks,Computer-Aided Civil and Infrastructure Engineering, 33 (6), 443-458 (2018).<br />Nabian, M.A., and Meidani, H., A Deep Learning Solution Approach for High-Dimensional Random DifferentialEquations, Probabilistic Engineering Mechanics (Under Review).<br />Nabian, M.A., and Meidani, H., Physics-Informed Regularization of Deep Neural Networks, Journal of Computing and Information Science in Engineering (Under Review).<br />Nabian, M.A., Alemazkoor, N., and Meidani, H., Predicting Near-Term Train Schedule Performance and DelayUsing Bi-Level Random Forests, Transportation Research RecordsIn Press.<br />Nabian, M.A., and Farhadi, L., A Mesh-Free Particle Method for Simulation of Granular Flows and SedimentTransport, Journal of Hydraulic Engineering, 143 (4), 04016102 (2016).
+  - Nabian, M.A., and Meidani, H., Deep Learning for Accelerated Seismic Reliability Analysis of TransportationNetworks,Computer-Aided Civil and Infrastructure Engineering, 33 (6), 443-458 (2018).
+  - Nabian, M.A., and Meidani, H., A Deep Learning Solution Approach for High-Dimensional Random DifferentialEquations, Probabilistic Engineering Mechanics (Under Review).
+  - Nabian, M.A., and Meidani, H., Physics-Informed Regularization of Deep Neural Networks, Journal of Computing and Information Science in Engineering (Under Review).
+  - Nabian, M.A., Alemazkoor, N., and Meidani, H., Predicting Near-Term Train Schedule Performance and DelayUsing Bi-Level Random Forests, Transportation Research RecordsIn Press.
+  - Nabian, M.A., and Farhadi, L., A Mesh-Free Particle Method for Simulation of Granular Flows and SedimentTransport, Journal of Hydraulic Engineering, 143 (4), 04016102 (2016).
 
 # Footer
 footer_show_references: true
