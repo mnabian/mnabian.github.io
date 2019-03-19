@@ -1,12 +1,8 @@
 # Education Template
 - name: University of Illinois at Urbana-Champaign
-  dates: Date Range (eg. 2015 - Present)
+  dates: 2015 - Present
   qualification: PhD in Civil Engineering
   quote: >
     Concentration: Sustainable and Resilient Infrastructure Systems
     Minor 1: Computational Science and Engineering
     Minor 2: Statistics
-  description: | # this will include new lines to allow paragraphs
-    #Description of qualification
-
-
