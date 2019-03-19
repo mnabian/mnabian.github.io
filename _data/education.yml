@@ -1,8 +1,10 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: University of Illinois at Urbana-Champaign
+  dates: Date Range (eg. 2015 - Present)
+  PhD in Civil Engineering
   quote: >
-    Short institution or course description (optional)
+    Concentration: Sustainable and Resilient Infrastructure Systems
+    Minor 1: Computational Science and Engineering
+    Minor 2: Statistics
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    #Description of qualification
