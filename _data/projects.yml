@@ -2,7 +2,7 @@
 
 - name: Transportation network reliability analysis
   #link: github.com/sproogen
-  #github: sproogen/resume-theme
+  github: mnabian/DNN_Reliability_Repository
   quote: >
   description: | # this will include new lines to allow paragraphs
     In this project, I sought to improve the reliability analysis of transportation networks following extreme earthquake events. I have developed a novel deep learning method that accelerated seismic reliability analysis of large transportation systems. My contributions to this research include two different deep neural network models: a classifier model to speed up the connectivity determination of networks, and an end-to-end model to replace a group of modules in the transportation network reliability analysis pipeline. These models serve as useful tools for optimizing mitigation and preparedness procedures before extreme events happen, and also for improving emergency response after extreme events. I have ultimately developed a general framework for the accurate and accelerated seismic reliability analysis of transportation systems. This improved technique accounts for the inherent uncertainties in these systems and during earthquake events. This deep learning-based method exhibited improved performance over other machine learning-based reliability analysis techniques.
