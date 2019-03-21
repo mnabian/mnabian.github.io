@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: profile.jpg
 
 # Personal info
 name: Mohammad Amin Nabian
@@ -20,7 +20,7 @@ linkedin_username: mohammad-amin-nabian-9b0b9352
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD Candidate in Sustainable and Resilient Infrastructure Systems program in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. My research interests include <mark>infrastructure engineering</mark>, <mark>machine learning and deep learning</mark>, <mark>uncertainty quantification</mark>, <mark>computational statistics</mark>, and <mark>computational fluid dynamics</mark>. Primarily, I am interested in developing metamodels based on deep neural networks to accelerate stochastic computations in engineering systems, with applications in reliability analysis, design optimization, Bayesian inference, and computational fluid dynamics. Currently I am a member of the [Uncertainty Quantification group](http://publish.illinois.edu/meidani/). You may like to take a look at my [CV](https://www.dropbox.com/s/td06q7ae7io5gdh/CV.pdf?dl=0).
+  I am a PhD Candidate in Sustainable and Resilient Infrastructure Systems program in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. My research interests include <mark>infrastructure engineering</mark>, <mark>machine learning and deep learning</mark>, <mark>uncertainty quantification</mark>, <mark>computational statistics</mark>, and <mark>computational fluid dynamics</mark>. Primarily, I am interested in developing metamodels based on deep neural networks to accelerate stochastic computations in engineering systems, with applications in reliability analysis, design optimization, Bayesian inference, and computational fluid dynamics. Currently I am a member of the [Uncertainty Quantification group](http://publish.illinois.edu/meidani/). You may like to take a look at my [CV](https://www.dropbox.com/s/2rcq4sbiw7szomy/CV.pdf?dl=0).
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
