@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Mohammad Amin Nabian
-title: PhD Candidate, University of Illinois at Urbana Champaign
+title: PhD Candidate, University of Illinois at Urbana-Champaign
 email: mnabia2@illinois.edu
 phone: 202-304-6701
 website: mnabian.github.io
